@@ -1,0 +1,13 @@
+authentication-service/authApp
+broker-service/brokerApp
+front-end/frontApp
+listener-service/listenerServiceApp
+logger-service/loggerServiceApp
+mail-service/mailServiceApp
+
+#Data Folders#
+project/db-data/mongo/
+project/db-data/postgres/
+project/db-data/rabbitmq/
+### VS Code ###
+.vscode/
